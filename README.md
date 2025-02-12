@@ -31,6 +31,11 @@ This is a **Java Swing-based restaurant Management system** with database integr
 ```
 📦 RestaurantOrderingSystem
  ┣ 📜 Start.java
+ ┣ 📂 Image
+ ┃ ┣ 📜 logo.png
+ ┃ ┣ 📜 profile.png
+ ┃ ┣ 📜 admin.png
+ ┃ ┗ 📜 Other images...
  ┣ 📂 Classes
  ┃ ┣ 📜 HomePage.java
  ┃ ┣ 📜 CustomerSignUp.java
