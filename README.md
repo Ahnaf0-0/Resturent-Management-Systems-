@@ -16,11 +16,14 @@ This is a **Java Swing-based restaurant Management system** with database integr
 - **JDBC** (Database Connectivity)
 - **VS CODE / IntelliJ IDEA** (Recommended IDEs)
 
-## 🚀 Setup & Installation
-### **1️⃣ Database Setup**
-1. Install MySQL and create a database (e.g., `RMS`).
-2. Import the SQL schema (`database.sql` file) provided in the project.
-3. Update the `DBconnect.java` file with your MySQL credentials.
+## 🚀 Setup & Installation  
+### **1️⃣ Database Setup (XAMPP & phpMyAdmin)**  
+1. Install **XAMPP** and open the **XAMPP Control Panel**.  
+2. Start **Apache** and **MySQL** services.  
+3. Open your browser and go to **phpMyAdmin** (`http://localhost/phpmyadmin`).  
+4. Create a new database (e.g., `Rms`).  
+6. Update the **`DBconnect.java`** file with your MySQL connection details.
+This ensures your MySQL database is properly set up for the project! 🚀
 
 ### **2️⃣ Running the Project**
 1. Open the project in **VS CODE** or **IntelliJ IDEA**.
