@@ -5,9 +5,13 @@ This is a **Java Swing-based restaurant Management system** with database integr
 
 ## 📂 Features
 ✅ **Customer Management** – Sign-up, login.
+
 ✅ **Delivery Personnel Management** – view, and Update delivery staff records.
+
 ✅ **Menu Categories** – Browse different categories (e.g., Burger,Drinks,Rice Bowl).
+
 ✅ **Admin Dashboard** – Secure admin login and management functionalities also Admin can view Customers And Can Add , remove Products and deliver Mans.
+
 ✅ **Order Management** – Place orders and store them in a MySQL database.
 
 ## 🛠️ Technologies Used
