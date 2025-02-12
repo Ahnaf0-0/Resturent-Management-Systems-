@@ -1,0 +1,204 @@
+User Name : a
+Password : a
+Email : a
+Time & Date : 22:44 PM, 10/05/2024
+===============================================
+==================Employee==================
+#Removed! User Name : a
+#Removed! Password : a
+#Removed! Email : a
+#Removed! Category : SHEFF
+#Removed! Time & Date : 13:36 PM, 11/05/2024
+#Removed! ===============================================
+#Removed! User Name : b
+#Removed! Password : b
+#Removed! Email : b
+#Removed! Time & Date : 14:28 PM, 11/05/2024
+#Removed! ===============================================
+#Removed! ==================Employee==================
+#Removed! User Name : a
+#Removed! Password : a
+#Removed! Email : a
+#Removed! Category : WAITER
+#Removed! Time & Date : 14:54 PM, 11/05/2024
+#Removed! ===============================================
+             ## Added by Admin ##
+#Removed! User Name : hola
+#Removed! Password : hola
+#Removed! Email : hola
+#Removed! Time & Date : 22:16 PM, 11/05/2024
+#Removed! ===============================================
+#Removed!              ## Added by Admin ##
+#Removed! User Name : a
+#Removed! Password : a
+#Removed! Email : a
+#Removed! Time & Date : 18:57 PM, 13/05/2024
+#Removed! ===============================================
+             ## Added by Admin ##
+#Removed! User Name : faysal
+#Removed! Password : 123
+#Removed! Email : faysal
+#Removed! Time & Date : 10:24 AM, 14/05/2024
+#Removed! ===============================================
+             ## Added by Admin ##
+#Removed! User Name : fassal
+#Removed! Password : 123
+#Removed! Email : fassal
+#Removed! Time & Date : 10:25 AM, 14/05/2024
+#Removed! ===============================================
+             ## Added by Admin ##
+#Removed! User Name : anib
+#Removed! Password : 123
+#Removed! Email : anib
+#Removed! Time & Date : 10:26 AM, 14/05/2024
+#Removed! ===============================================
+#Removed! ======================USER======================
+#Removed! User Name : u
+#Removed! Password : u
+#Removed! Email : u
+#Removed! Time & Date : 10:39 AM, 17/12/2024
+#Removed! ===============================================
+#Removed!              ## Added by Admin ##
+#Removed! User Name : aaa
+#Removed! Password : aa
+#Removed! Email : aa
+#Removed! Time & Date : 19:20 PM, 17/12/2024
+#Removed! ===============================================
+#Removed! ======================USER======================
+#Removed! User Name : ss
+#Removed! Password : ss
+#Removed! Email : ss
+#Removed! Time & Date : 19:22 PM, 17/12/2024
+#Removed! ===============================================
+             ## Added by Admin ##
+#Removed! User Name : a
+#Removed! Password : a
+#Removed! Email : a
+#Removed! Time & Date : 00:59 AM, 18/12/2024
+#Removed! ===============================================
+             ## Added by Admin ##
+#Removed! User Name : a
+#Removed! Password : a
+#Removed! Email : a
+#Removed! Time & Date : 01:01 AM, 18/12/2024
+#Removed! ===============================================
+#Removed!              ## Added by Admin ##
+#Removed! User Name : aa
+#Removed! Password : aa
+#Removed! Email : aa
+#Removed! Time & Date : 01:07 AM, 18/12/2024
+#Removed! ===============================================
+             ## Added by Admin ##
+#Removed! User Name : a
+#Removed! Password : a
+#Removed! Email : a
+#Removed! Time & Date : 01:11 AM, 18/12/2024
+#Removed! ===============================================
+             ## Added by Admin ##
+#Removed! User Name : a
+#Removed! Password : a
+#Removed! Email : a
+#Removed! Time & Date : 01:13 AM, 18/12/2024
+#Removed! ===============================================
+             ## Added by Admin ##
+#Removed! User Name : s
+#Removed! Password : a
+#Removed! Email : a
+#Removed! Time & Date : 18:09 PM, 19/12/2024
+#Removed! ===============================================
+#Removed!              ## Added by Admin ##
+#Removed! User Name : a
+#Removed! Password : a
+#Removed! Email : a
+#Removed! Time & Date : 18:09 PM, 19/12/2024
+#Removed! ===============================================
+             ## Added by Admin ##
+#Removed! User Name : s
+#Removed! Password : s
+#Removed! Email : s
+#Removed! Time & Date : 18:11 PM, 19/12/2024
+#Removed! ===============================================
+             ## Added by Admin ##
+#Removed! User Name : aa
+#Removed! Password : a
+#Removed! Email : a
+#Removed! Time & Date : 18:14 PM, 19/12/2024
+#Removed! ===============================================
+             ## Added by Admin ##
+#Removed! User Name : a
+#Removed! Password : a
+#Removed! Email : a
+#Removed! Time & Date : 18:17 PM, 19/12/2024
+#Removed! ===============================================
+#Removed! ======================USER======================
+#Removed! User Name : a
+#Removed! Password : a
+#Removed! Email : a
+#Removed! Time & Date : 18:19 PM, 19/12/2024
+#Removed! ===============================================
+======================USER======================
+#Removed! User Name : S
+#Removed! Password : S
+#Removed! Email : S
+#Removed! Time & Date : 10:37 AM, 22/12/2024
+#Removed! ===============================================
+#Removed! ======================USER======================
+#Removed! User Name : s
+#Removed! Password : s
+#Removed! Email : s
+#Removed! Time & Date : 09:39 AM, 31/12/2024
+#Removed! ===============================================
+#Removed! ======================USER======================
+#Removed! User Name : s
+#Removed! Password : s
+#Removed! Email : s
+#Removed! Time & Date : 15:58 PM, 03/01/2025
+#Removed! ===============================================
+             ## Added by Admin ##
+#Removed! User Name : s
+#Removed! Password : s
+#Removed! Email : s
+#Removed! Time & Date : 23:10 PM, 03/01/2025
+#Removed! ===============================================
+             ## Added by Admin ##
+#Removed! User Name : s
+#Removed! Password : s
+#Removed! Email : s
+#Removed! Time & Date : 14:57 PM, 04/01/2025
+#Removed! ===============================================
+             ## Added by Admin ##
+#Removed! User Name : s
+#Removed! Password : s
+#Removed! Email : s
+#Removed! Time & Date : 14:58 PM, 04/01/2025
+#Removed! ===============================================
+             ## Added by Admin ##
+#Removed! User Name : s
+#Removed! Password : s
+#Removed! Email : s
+#Removed! Time & Date : 14:58 PM, 04/01/2025
+#Removed! ===============================================
+======================USER======================
+#Removed! User Name : w
+#Removed! Password : w
+#Removed! Email : w
+#Removed! Time & Date : 15:34 PM, 04/01/2025
+#Removed! ===============================================
+======================USER======================
+User Name : s
+Password : ss
+Email : s
+Time & Date : 16:13 PM, 04/01/2025
+===============================================
+======================USER======================
+User Name : ss
+Password : ss
+Email : ss
+Time & Date : 16:02 PM, 12/01/2025
+===============================================
+======================USER======================
+User Name : ss
+Password : ss
+Email : ss
+Time & Date : 21:15 PM, 22/01/2025
+===============================================

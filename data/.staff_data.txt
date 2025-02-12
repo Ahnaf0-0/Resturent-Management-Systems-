@@ -1,0 +1,77 @@
+==================Employee==================
+#Removed! User Name : a
+#Removed! Password : a
+#Removed! Email : a
+#Removed! Category : WAITER
+#Removed! Time & Date : 15:04 PM, 11/05/2024
+#Removed! ===============================================
+==================Employee==================
+#Removed! User Name : b
+#Removed! Password : b
+#Removed! Email : b
+#Removed! Category : WAITER
+#Removed! Time & Date : 17:26 PM, 12/05/2024
+#Removed! ===============================================
+==================Employee==================
+#Removed! User Name : s
+#Removed! Password : s
+#Removed! Email : s
+#Removed! Category : WAITER
+#Removed! Time & Date : 23:33 PM, 17/12/2024
+#Removed! ===============================================
+==================Employee==================
+#Removed! User Name : s
+#Removed! Password : s
+#Removed! Email : s
+#Removed! Category : WAITER
+#Removed! Time & Date : 23:33 PM, 17/12/2024
+#Removed! ===============================================
+==================Employee==================
+#Removed! User Name : a
+#Removed! Password : a
+#Removed! Email : a
+#Removed! Category : WAITER
+#Removed! Time & Date : 18:20 PM, 19/12/2024
+#Removed! ===============================================
+==================Employee==================
+#Removed! User Name : a
+#Removed! Password : a
+#Removed! Email : a
+#Removed! Category : SHEFF
+#Removed! Time & Date : 18:39 PM, 19/12/2024
+#Removed! ===============================================
+==================Employee==================
+#Removed! User Name : aaaa
+#Removed! Password : aa
+#Removed! Email : aaaaaaaaaaaaaaaaaa
+#Removed! Category : WAITER
+#Removed! Time & Date : 18:40 PM, 19/12/2024
+#Removed! ===============================================
+==================Employee==================
+#Removed! User Name : ssss
+#Removed! Password : ssss
+#Removed! Email : sss
+#Removed! Category : WAITER
+#Removed! Time & Date : 19:55 PM, 19/12/2024
+#Removed! ===============================================
+==================Employee==================
+#Removed! User Name : aa
+#Removed! Password : aaa
+#Removed! Email : aaaaa
+#Removed! Category : WAITER
+#Removed! Time & Date : 20:09 PM, 19/12/2024
+#Removed! ===============================================
+==================Employee==================
+#Removed! User Name : s
+#Removed! Password : s
+#Removed! Email : s
+#Removed! Category : WAITER
+#Removed! Time & Date : 15:13 PM, 04/01/2025
+#Removed! ===============================================
+==================Employee==================
+User Name : s
+Password : s
+Email : s
+Category : WAITER
+Time & Date : 14:12 PM, 11/01/2025
+===============================================

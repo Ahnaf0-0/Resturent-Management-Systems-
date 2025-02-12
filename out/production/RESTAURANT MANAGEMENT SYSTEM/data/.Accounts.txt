@@ -1,0 +1,32 @@
+Income : 1.2345678E7
+Food Cost : 2345.0
+Salary : 1234.0
+Rent : 777.0
+Other Expense : 78686.0
+Total Expense : 83042.0
+Net Profit : 1.2262636E7
+===============================================
+Income : 3444444.0
+Food Cost : 23445.0
+Salary : 3454.0
+Rent : 23454.0
+Other Expense : 45454.0
+Total Expense : 95807.0
+Net Profit : 3348637.0
+===============================================
+Income : 34343.0
+Food Cost : 3434.0
+Salary : 343.0
+Rent : 3434.0
+Other Expense : 34343.0
+Total Expense : 41554.0
+Net Profit : -7211.0
+===============================================
+Income : 500.0
+Product Cost : 50000.0
+Salary : 55000.0
+Rent : 5000.0
+Other Expense : 500000.0
+Total Expense : 610000.0
+Net Profit : -609500.0
+===============================================
